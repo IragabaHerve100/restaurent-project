@@ -1,2 +1,4 @@
 <?php
-$a=$_POST['name']
+$email=$_POST['email'];
+echo $email;
+?>

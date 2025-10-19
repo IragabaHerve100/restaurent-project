@@ -11,15 +11,16 @@
             <Button  class='bb'>log in</Button>
         </div>
 
-     
-      <div class="form"><br><br>
-      <form action="heve.php" method='post'>
+     <fieldset>
+      <div class="form">
+      <form action="" method='post'>
+        <br><br>
 <input type="email" placeholder='your email' id='f' name='email'><br><br>
-<input type="password" placeholder='your password' name='password'>
+<input type="password" placeholder='your password' name='password'><br><br>
 <button type="submit">login</button>
 </form>
 </div>  
-
+</fieldset>
 </div>
 
 <link rel="stylesheet" href="herve.css">
